@@ -4,6 +4,7 @@ Un sistema d'Ajuda a l'Explotació (SAE) de baix cost basat en tecnologia Intern
 
 Aquest projecte s'ha desenvolupat com a **Treball Final de Grau (TFG)** per a la titulació d'Enginyeria d'Organització Industrial i Logística a la **Universitat de Lleida (UdL)**. Tota la documentació acadèmica detallada i la memòria oficial es troben publicades i accessibles a través del **Repositori Obert de la UdL**.
 
+VIDEO PROVES DE CAMP: https://youtu.be/QzfaFULYQKQ
 ---
 
 ## Autoria
